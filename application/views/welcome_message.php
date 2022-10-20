@@ -11,7 +11,14 @@
     <title>Hello, world!</title>
   </head>
   <body>
-    <h1>Hello, world!</h1>
+    <div class="container mt-5">
+      <div class="row">
+        <div class="col">
+          <h1>Haloooo</h1>
+          <h3>Namaku yeni!</h1>
+        </div>
+      </div>
+    </div>
 
     <!-- Optional JavaScript; choose one of the two! -->
 
